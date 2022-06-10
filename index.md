@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Jonah's Webpage"
 ---
+Hi! My name is Jonah Huang. 
 
-I'm glad you are here. I plan to talk about ...
+My socials are: 
+Instagram: @jhviper
+Twitter: @jhviper
+Facebook: @jhviper
